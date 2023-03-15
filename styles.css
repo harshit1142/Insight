@@ -407,3 +407,95 @@ hr{
   width: 50px;
   height: 50px;
 }
+
+/* ------------------Updated resonsiveness---------------------- */
+@media only screen and (max-width:787px) {
+  .nav h2{
+    margin: 13px;
+    font-size: 35px;
+  }
+  .menu{
+    margin: 13px;
+   display: block;
+   cursor: pointer;
+  }
+  .menu .line{
+    width: 30px;
+    height: 4px;
+    margin: 6px;
+    background-color: white;
+  }
+  .nav-section{
+    height: 0px;
+    position: absolute;
+    top: 80px;
+    left: 0;
+    right: 0;
+    z-index: 999999;
+    width: 100%;
+    background-color: black;
+  transition: 0.3s;
+   overflow: hidden;
+  }
+  .nav-section ul li{
+    display: block;
+    width: fit-content;
+    margin: 23px auto 0 auto;
+    text-align: center;
+    transition: 0.5s;
+    opacity: 0;
+  }
+
+  .nav-section.active {
+       height: auto;
+  }
+  .nav-section.active ul li{
+    opacity: 1;
+  }
+  .nav-section.active ul li a{
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+     
+  }
+  #search{
+    width: 90%;
+  }
+  .search input{
+
+    width: 260px
+  }
+  .content img{
+    width: 80%;
+  }
+  .info .genre,
+  .info .by,
+  .info .cast,
+  .info .plot,
+  .info .rating
+  {
+    font-size: 25px;
+  }
+
+}
+.carousel slide{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media only screen and (max-width:470px) {
+  .carousel-item img{
+    height: 600px;
+  }
+  .carousel-item .carousel-caption{
+    position: absolute;
+    top: 0;
+  }
+  .title h2{
+    font-size: 20px;
+  }
+  .title p{
+    font-size: 12px;
+  }
+}
