@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Insight</h1>
 
-<p id="description">A Movie Rated Website having a collection of movies across the world. Through this website you will able to get movie various information like year of release,director,cast,plot and rating given at different genuine website.</p>
+<p id="description">A Movie Rated Website having a collection of movies across the world. Through this website you will able to get Movies / Webseries various information like year of release,director,cast,plot and rating given at different genuine website.</p>
 
 <h2>🚀 Check it OUT 👇🏻</h2>
 
@@ -20,9 +20,9 @@
 Here're some of the project's best features:
 
 *   Collection of Top Rated,Top Grossing,Top Animated Movies.
-*   A Movie Searching Bar.
+*   A Movie/Webseries Searching Bar.
 *   Responsive Website.
-*   Contains movies informations / details..
+*   Contains movies and webseries informations / details..
 *   A Collections of rating provided at different Genuine Website (Like : Internet Movie Database,Rotten Tomatoes,Metacritic )..
 
   
