@@ -8,7 +8,10 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="/icons/github.png" alt="project-screenshot" width="200" height="200/">
+<img src="/screenshot/SR1.png" alt="project-screenshot" width="200" height="200/">
+<img src="/screenshot/SR2.png" alt="project-screenshot" width="200" height="200/">
+<img src="/screenshot/sr3.png" alt="project-screenshot" width="200" height="200/">
+<img src="/screenshot/SR4.png" alt="project-screenshot" width="200" height="200/">
 
   
   
@@ -33,3 +36,10 @@ Technologies used in the project:
 *   JAVASCRIPT
 *   BOOTSTRAP
 *   Use of an API(Application programming interface)
+
+<h1> Contributors </h1>
+
+* Yogendra Singh Chouhan (20220058)   winorlearn108 
+* Harshit Pandey         (20220024)   harshit1142 
+* Shivanand Pal          (20223247)   shivanand3247 
+* Sanchit Gangwar        (20223229)   sanchit02102004
