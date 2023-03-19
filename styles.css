@@ -1,3 +1,7 @@
+/* Added Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova&family=Playfair+Display&family=Poppins:ital,wght@0,200;0,400;0,500;0,700;1,100;1,300&family=Special+Elite&display=swap'); 
+
+
 * {
    list-style: none;
    text-decoration: none;
@@ -17,9 +21,10 @@ body{
   width: 100%;
 }
 .nav h2{
-  color: rgb(135, 230, 236);
+  color: rgb(230, 230, 0);
   font-size: 60px;
   margin-left: 35px;
+  font-family: Bona Nova;
   /* font-family: cursive; */
   /* font-weight: 900; */
 }
@@ -31,6 +36,7 @@ body{
   text-decoration: none;
   color: white;
   font-size: 45px;
+  font-family: Special Elite ;
   transition: all 0.4s;
 }
 .nav-section ul li a:hover
