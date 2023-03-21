@@ -37,9 +37,4 @@ Technologies used in the project:
 *   BOOTSTRAP
 *   Use of an API(Application programming interface)
 
-<h1> Contributors </h1>
 
-* Yogendra Singh Chouhan (20220058)   winorlearn108 
-* Harshit Pandey         (20220024)   harshit1142 
-* Shivanand Pal          (20223247)   shivanand3247 
-* Sanchit Gangwar        (20223229)   sanchit02102004
