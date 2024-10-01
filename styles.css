@@ -39,14 +39,40 @@ body{
   font-family: Special Elite ;
   transition: all 0.4s;
 }
-.nav-section ul li a:hover
-{
-  opacity: 1;
-  color: gold;
+.nav-section ul li a:hover {
+  border-bottom: 2px solid gold;
+  color: white; /* Keep color consistent */
 }
 .nav-section ul li a.active{
   color: gold;
 }
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+.flip-card {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.search input {
+  border-radius: 25px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+.box:hover a img {
+  transform: scale(1.2);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+.us {
+  background: linear-gradient(70deg, #3a3a3a, #b8003c);
+  color: #f9f9f9;
+}
+.aboutus .title h2 {
+  font-family: 'Poppins', sans-serif;
+  color: #f4f4f4;
+}
+
 /* #navi .active{
   opacity: 1;
   color: gold;
