@@ -16,14 +16,14 @@ body{
   top: 0%;
   display: flex;
   justify-content: space-between;
-  padding: 20px;
+  padding: 15px;
   align-items: center;
   height: 15vh;
   padding-right:5% ;
   z-index: 99111119;
   background-color: rgba(0, 0, 0, 0.7);
   width: 100%;
-  padding-top: 30px;
+  padding-top: 20px;
 }
 .nav h2{
   color: gold;
@@ -79,7 +79,7 @@ body{
 }
 .aboutus .title h2 {
   font-family: 'Poppins', sans-serif;
-  color: #f4f4f4;
+  color: #10336f;
 }
 
 /* #navi .active{
@@ -504,7 +504,7 @@ hr {
 /* Footer Container */
 .us {
   width: 100%;
-  background: linear-gradient(70deg, rgb(73, 0, 128), rgb(230, 62, 74));
+  background: linear-gradient(70deg, rgb(5, 5, 5), rgb(210, 203, 204), rgb(5, 5, 5));
   padding: 40px 20px; /* Add padding for a more spacious layout */
   color: white;
   text-align: center;
@@ -533,11 +533,12 @@ hr {
   align-items: center;
   gap: 20px;
   padding: 20px;
-  background-color: rgba(255, 255, 255, 0.1); /* Subtle background for contrast */
+  background-color: rgba(27, 28, 28, 0.2); /* Subtle background for contrast */
   border-radius: 15px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   max-width: 400px; /* Limit width for consistency */
   margin: 0 auto; /* Center align on larger screens */
+  border: 3px solid #ffffff;
 }
 
 .aboutus .first:hover {
@@ -567,7 +568,7 @@ hr {
 
 /* Title and Details */
 .aboutus .first .title {
-  color: #b3d6ef;
+  color: #073657;
   text-align: left;
 }
 
