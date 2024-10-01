@@ -37,4 +37,32 @@ Technologies used in the project:
 *   BOOTSTRAP
 *   Use of an API(Application programming interface)
 
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository:**
+   First, clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/harshit1142/Insight.git
+   ```
+
+2. **Navigate to the project directory:**
+   Change your current directory to the project directory:
+   ```bash
+   cd Insight
+   ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributors 
+
+<p align="center">
+  <a href="https://github.com/harshit1142/Insight/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=harshit1142/Insight" max={1000} columns={100} anon={1}/>
+  </a>
+</p>
+
 
