@@ -4,7 +4,7 @@
 
 <h2>🚀 Check it OUT 👇🏻</h2>
 
-[https://harshit1142.github.io/Insight/](https://harshit1142.github.io/Insight/)
+[https://harshit1142.github.io/Insight/](https://insight-cyan.vercel.app/)
 
 <h2>Project Screenshots:</h2>
 
