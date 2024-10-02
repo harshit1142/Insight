@@ -5,36 +5,30 @@
 * {
    list-style: none;
    text-decoration: none;
+   margin: 0;
+   padding: 0;
 }
 body{
   background-image: url("Images/2131.jpg");
-  width: 100%;
+  width: 100vw;
 }
 
 .nav{
+  
   position: sticky;
-  top: 0%;
-  display: flex;
   justify-content: space-between;
-  padding: 15px;
   align-items: center;
-  height: 15vh;
-  padding-right:5% ;
   z-index: 99111119;
   background-color: rgba(0, 0, 0, 0.7);
   width: 100%;
-  padding-top: 20px;
 }
+
 .nav h2{
   color: gold;
-  font-size: 40px;
-  margin-left: 35px;
-  margin-top: -10px;
   font-family: Bona Nova;
   font-weight: lighter;
-  /* font-family: cursive; */
-  /* font-weight: 900; */
 }
+
 .nav-section ul li{
   padding-left: 20px;
   display: inline;
@@ -42,24 +36,26 @@ body{
 .nav-section ul li a{
   text-decoration: none;
   color: white;
-  font-size: 34px;
+  font-size: 2rem;
   font-family: Special Elite ;
   transition: all 0.4s;
 }
 
 .nav-section ul li a:hover {
-  border-bottom: 2px solid gold;
-  color: white; /* Keep color consistent */
+  text-decoration: underline;
+  text-decoration-color: gold;
+  color: white; /* Keep color consistent8*/
 
-}
+} 
 .nav-section ul li a.active{
   color: gold;
-}
+} 
 .carousel-caption {
   background: rgba(0, 0, 0, 0.5);
   padding: 20px;
   border-radius: 10px;
 }
+
 .flip-card {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
@@ -87,10 +83,11 @@ body{
   color: gold;
   background:linear-gradient(45deg,grey 60%,black) ;
 } */
-@media only screen and (min-width:787px) and (max-width: 1350px) {
+@media only screen and (min-width:375px) and (max-width: 1350px) {
+
   .nav h2{
     margin: 13px;
-    font-size: 55px;
+    font-size: 30px;
   }
   .menu{
     margin: 13px;
@@ -156,14 +153,20 @@ body{
   object-fit: cover;
   margin-bottom: 50px;
 }
+
 .carousel-item img{
+  width: 80vw;
+  margin-left: 10vw;
+  height: 75vh;
+}
+/* .carousel-item img{
   z-index: -122;
   object-fit: cover;
   width: auto;
-  height: 100%;
+  height: 50%;
   z-index: -12;
   background-size: cover;
-}
+} */
 .carousel-item .carousel-caption{
   
 position: relative;
