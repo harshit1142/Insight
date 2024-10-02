@@ -1,4 +1,21 @@
 {
   "projectName": "Insight",
-  "projectOwner": "harshit1142"
+  "projectOwner": "harshit1142",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "T-Rahul-prabhu-38",
+      "name": "t rahul prabhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167653990?v=4",
+      "profile": "https://github.com/T-Rahul-prabhu-38",
+      "contributions": [
+        "design"
+      ]
+    }
+  ]
 }
