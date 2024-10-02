@@ -59,9 +59,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors 
 ![Contributors](https://img.shields.io/github/contributors/harshit1142/Insight)
-<div align="center">
-  <a href="https://github.com/harshit1142/Insight/graphs/contributors">
-  </a>
-</div>
 
 
