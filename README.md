@@ -59,10 +59,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors 
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/harshit1142/Insight/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=harshit1142/Insight" max={1000} columns={100} anon={1}/>
+  <img src="https://contrib.rocks/image?repo=harshit1142/Insight" />
   </a>
-</p>
+  
+ </div>
 
 
