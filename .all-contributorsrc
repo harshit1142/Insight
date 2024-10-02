@@ -10,12 +10,21 @@
   "contributors": [
     {
 
+      "login": "T-Rahul-prabhu-38",
+      "name": "t rahul prabhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167653990?v=4",
+      "profile": "https://github.com/T-Rahul-prabhu-38",
+      "contributions": [
+        "design"
+        ]},
+    {
       "login": "Dipeshdahiya",
       "name": "Dipeshdahiya",
       "avatar_url": "https://avatars.githubusercontent.com/u/132298893?v=4",
       "profile": "https://github.com/Dipeshdahiya",
       "contributions": [
         "design"
+        ]
         },{
       "login": "parthib2004",
       "name": "Parthib Sarkar",
@@ -25,6 +34,7 @@
         "design",
         "code",
         "content"
+
 
       ]
     }
