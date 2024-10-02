@@ -65,7 +65,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <table>
   <tbody>
     <tr>
+
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Dipeshdahiya"><img src="https://avatars.githubusercontent.com/u/132298893?v=4?s=100" width="100px;" alt="Dipeshdahiya"/><br /><sub><b>Dipeshdahiya</b></sub></a><br /><a href="#design-Dipeshdahiya" title="Design">🎨</a></td>
+
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/parthib2004"><img src="https://avatars.githubusercontent.com/u/146326397?v=4?s=100" width="100px;" alt="Parthib Sarkar"/><br /><sub><b>Parthib Sarkar</b></sub></a><br /><a href="#design-parthib2004" title="Design">🎨</a> <a href="#code-parthib2004" title="Code">💻</a> <a href="#content-parthib2004" title="Content">🖋</a></td>
+
     </tr>
   </tbody>
 </table>
