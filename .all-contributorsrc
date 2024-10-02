@@ -1,4 +1,23 @@
 {
   "projectName": "Insight",
-  "projectOwner": "harshit1142"
+  "projectOwner": "harshit1142",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "parthib2004",
+      "name": "Parthib Sarkar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146326397?v=4",
+      "profile": "https://github.com/parthib2004",
+      "contributions": [
+        "design",
+        "code",
+        "content"
+      ]
+    }
+  ]
 }
