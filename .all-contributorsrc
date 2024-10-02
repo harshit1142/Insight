@@ -51,6 +51,17 @@
         "data",
         "projectManagement"
       ]
+    },
+    {
+      "login": "SKant03",
+      "name": "Shashikant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111555579?v=4",
+      "profile": "https://github.com/SKant03",
+      "contributions": [
+        "code",
+        "design",
+        "bug"
+      ]
     }
   ]
 }
