@@ -9,14 +9,14 @@
   "contributorsPerLine": 7,
   "contributors": [
     {
-
       "login": "T-Rahul-prabhu-38",
       "name": "t rahul prabhu",
       "avatar_url": "https://avatars.githubusercontent.com/u/167653990?v=4",
       "profile": "https://github.com/T-Rahul-prabhu-38",
       "contributions": [
         "design"
-        ]},
+      ]
+    },
     {
       "login": "Dipeshdahiya",
       "name": "Dipeshdahiya",
@@ -24,8 +24,9 @@
       "profile": "https://github.com/Dipeshdahiya",
       "contributions": [
         "design"
-        ]
-        },{
+      ]
+    },
+    {
       "login": "parthib2004",
       "name": "Parthib Sarkar",
       "avatar_url": "https://avatars.githubusercontent.com/u/146326397?v=4",
@@ -34,8 +35,15 @@
         "design",
         "code",
         "content"
-
-
+      ]
+    },
+    {
+      "login": "harshit1142",
+      "name": "Harshit Pandey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112557145?v=4",
+      "profile": "https://github.com/harshit1142",
+      "contributions": [
+        "review"
       ]
     }
   ]
