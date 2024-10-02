@@ -58,11 +58,6 @@ To get started with the project, follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributors 
-
-<p align="center">
-  <a href="https://github.com/harshit1142/Insight/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=harshit1142/Insight" max={1000} columns={100} anon={1}/>
-  </a>
-</p>
+![Contributors](https://img.shields.io/github/contributors/harshit1142/Insight)
 
 
