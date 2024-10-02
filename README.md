@@ -60,10 +60,31 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributors 
 
 <div align="center">
-  <a href="https://github.com/harshit1142/Insight/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=harshit1142/Insight" />
-  </a>
-  
- </div>
+  <h3>Meet our amazing contributors</h3>
+  <div id="contributors"></div>
+</div>
+
+<script>
+  const repo = 'harshit1142/Insight';
+  const contributorsUrl = `https://api.github.com/repos/${repo}/contributors`;
+
+  fetch(contributorsUrl)
+    .then(response => response.json())
+    .then(contributors => {
+      const contributorsDiv = document.getElementById('contributors');
+      contributors.forEach(contributor => {
+        const img = document.createElement('img');
+        img.src = contributor.avatar_url;
+        img.alt = contributor.login;
+        img.width = 50;
+        img.height = 50;
+        img.style.borderRadius = '50%';
+        img.style.margin = '5px';
+        img.title = contributor.login;
+        contributorsDiv.appendChild(img);
+      });
+    })
+    .catch(error => console.error('Error fetching contributors:', error));
+</script>
 
 
