@@ -14,13 +14,50 @@ body{
 }
 
 .nav{
-  
   position: sticky;
+  top: 0;
+  padding: 10px;
   justify-content: space-between;
   align-items: center;
-  z-index: 99111119;
+  z-index: 1000;
   background-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   width: 100%;
+}
+
+.nav-section ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 20px;
+}
+
+.nav-section ul li {
+  display: inline;
+}
+
+.nav-section ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  padding: 10px;
+}
+.menu {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.line {
+  width: 30px;
+  height: 3px;
+  background-color: black;
+}
+section {
+  height: 600px;
+  padding: 20px;
 }
 
 .nav h2{
@@ -142,7 +179,8 @@ body{
 }
 
 .carousel-inner{
-  position: relative;
+  position: absolute;
+  top: 10rem;
   z-index: -1;
   margin-top: -120px;
   width: 100%;
